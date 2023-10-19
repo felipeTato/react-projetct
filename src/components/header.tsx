@@ -2,7 +2,6 @@ import User from "./user";
 import LuckyNumbers from "./luckynumber";
 
 function Header () {
-
   return (
   <div>
     <header>
